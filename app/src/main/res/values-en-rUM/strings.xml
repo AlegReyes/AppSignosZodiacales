@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fechaNacimiento">Date of birth</string>
+    <string name="Nombre">Name</string>
+    <string name="numeroDeCuenta">Student ID</string>
+    <string name="email">E-mail</string>
+    <string name="IngresaDatos">Enter the following data</string>
+    <string name="guardar">Save</string>
+    <string name="ingresa_valor">Do not leave the fields empty</string>
+    <string name="si_primo">The number %1$d if it is prime%2$s</string>
+    <string name="no_primo">The number %d is not prime</string>
+    <string name="faltaNumCuenta">Account number missing</string>
+    <string name="faltaNombre">Write your Name</string>
+    <string name="faltaNCorreo">Write your e-mail</string>
+    <string name="faltaFecha">Write your date of birth</string>
+    <string name="tuNombre">"Name: "</string>
+    <string name="tuNcuenta">Student ID:</string>
+    <string name="tuEdad">"Age: "</string>
+    <string name="tuCorreo">"E-mail: "</string>
+</resources>

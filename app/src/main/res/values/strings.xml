@@ -1,3 +1,25 @@
 <resources>
-    <string name="app_name">UsandoInputs</string>
+    <string name="app_name" translatable="false">Signo Zodiacal</string>
+    <string name="fechaNacimiento">Fecha de Nacimiento</string>
+    <string name="Nombre">Nombre</string>
+    <string name="numeroDeCuenta">Numero de Cuenta</string>
+    <string name="email">Correo electronico</string>
+    <string name="IngresaDatos">Ingresa los siguientes Datos</string>
+    <string name="guardar">Guardar</string>
+
+    <string name="ingresa_valor">No dejes los campos vacios</string>
+    <string name="si_primo">El numero %1$d si es primo%2$s</string>
+    <string name="no_primo">El numero %d no es primo</string>
+    <string name="faltaNumCuenta">Falta numero de Cuenta</string>
+    <string name="faltaNombre">Falta tu Nombre</string>
+    <string name="faltaNCorreo">Falta tu correo</string>
+    <string name="faltaFecha">Falta tu fecha de nacimiento</string>
+
+    <string name="tuNombre">Nombre: </string>
+    <string name="tuNcuenta">N de Cuenta: </string>
+    <string name="tuCorreo">Correo: </string>
+    <string name="tuEdad">Edad: </string>
+
+
+    <string name="version" translatable="false">Version 1.0</string>
 </resources>
